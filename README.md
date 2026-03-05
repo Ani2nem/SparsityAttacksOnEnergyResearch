@@ -31,5 +31,10 @@ A collection of linear layers representing the "expert" networks. In a real MoE,
 #### 3. Dynamic-k Selection Rule
 Instead of always activating the top-k experts, we use the rule from D2DMoE:
 
+## Example Output
+
+Running the simulation with `tau = 0.5` on a random input produces the following number of experts activated per token (each row is a sequence position, each column a token in the batch):
+
+
 
 
