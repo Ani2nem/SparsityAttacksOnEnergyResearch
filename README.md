@@ -36,5 +36,9 @@ Instead of always activating the top-k experts, we use the rule from D2DMoE:
 Running the simulation with `tau = 0.5` on a random input produces the following number of experts activated per token (each row is a sequence position, each column a token in the batch):
 
 
+# Week 2 Report 
 
+## Speed Always Wins
+Google Doc Insights:
+https://docs.google.com/document/d/1KLaxC7ikixie8PyCylHz_QJa6P2J4SNkwACve_R9Vgk/edit?tab=t.0
 
