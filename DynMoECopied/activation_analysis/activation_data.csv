@@ -1,0 +1,745 @@
+sentence,layer,token_position,experts_activated
+The quick brown fox jumps over the lazy dog.,model.layers.0.mlp.deepspeed_moe.gate.wg,0,0
+The quick brown fox jumps over the lazy dog.,model.layers.0.mlp.deepspeed_moe.gate.wg,1,0
+The quick brown fox jumps over the lazy dog.,model.layers.0.mlp.deepspeed_moe.gate.wg,2,0
+The quick brown fox jumps over the lazy dog.,model.layers.0.mlp.deepspeed_moe.gate.wg,3,0
+The quick brown fox jumps over the lazy dog.,model.layers.0.mlp.deepspeed_moe.gate.wg,4,0
+The quick brown fox jumps over the lazy dog.,model.layers.0.mlp.deepspeed_moe.gate.wg,5,0
+The quick brown fox jumps over the lazy dog.,model.layers.0.mlp.deepspeed_moe.gate.wg,6,0
+The quick brown fox jumps over the lazy dog.,model.layers.0.mlp.deepspeed_moe.gate.wg,7,0
+The quick brown fox jumps over the lazy dog.,model.layers.0.mlp.deepspeed_moe.gate.wg,8,0
+The quick brown fox jumps over the lazy dog.,model.layers.0.mlp.deepspeed_moe.gate.wg,9,0
+The quick brown fox jumps over the lazy dog.,model.layers.10.mlp.deepspeed_moe.gate.wg,0,0
+The quick brown fox jumps over the lazy dog.,model.layers.10.mlp.deepspeed_moe.gate.wg,1,0
+The quick brown fox jumps over the lazy dog.,model.layers.10.mlp.deepspeed_moe.gate.wg,2,0
+The quick brown fox jumps over the lazy dog.,model.layers.10.mlp.deepspeed_moe.gate.wg,3,0
+The quick brown fox jumps over the lazy dog.,model.layers.10.mlp.deepspeed_moe.gate.wg,4,0
+The quick brown fox jumps over the lazy dog.,model.layers.10.mlp.deepspeed_moe.gate.wg,5,0
+The quick brown fox jumps over the lazy dog.,model.layers.10.mlp.deepspeed_moe.gate.wg,6,0
+The quick brown fox jumps over the lazy dog.,model.layers.10.mlp.deepspeed_moe.gate.wg,7,0
+The quick brown fox jumps over the lazy dog.,model.layers.10.mlp.deepspeed_moe.gate.wg,8,0
+The quick brown fox jumps over the lazy dog.,model.layers.10.mlp.deepspeed_moe.gate.wg,9,0
+The quick brown fox jumps over the lazy dog.,model.layers.12.mlp.deepspeed_moe.gate.wg,0,0
+The quick brown fox jumps over the lazy dog.,model.layers.12.mlp.deepspeed_moe.gate.wg,1,0
+The quick brown fox jumps over the lazy dog.,model.layers.12.mlp.deepspeed_moe.gate.wg,2,0
+The quick brown fox jumps over the lazy dog.,model.layers.12.mlp.deepspeed_moe.gate.wg,3,0
+The quick brown fox jumps over the lazy dog.,model.layers.12.mlp.deepspeed_moe.gate.wg,4,0
+The quick brown fox jumps over the lazy dog.,model.layers.12.mlp.deepspeed_moe.gate.wg,5,0
+The quick brown fox jumps over the lazy dog.,model.layers.12.mlp.deepspeed_moe.gate.wg,6,0
+The quick brown fox jumps over the lazy dog.,model.layers.12.mlp.deepspeed_moe.gate.wg,7,0
+The quick brown fox jumps over the lazy dog.,model.layers.12.mlp.deepspeed_moe.gate.wg,8,0
+The quick brown fox jumps over the lazy dog.,model.layers.12.mlp.deepspeed_moe.gate.wg,9,0
+The quick brown fox jumps over the lazy dog.,model.layers.14.mlp.deepspeed_moe.gate.wg,0,0
+The quick brown fox jumps over the lazy dog.,model.layers.14.mlp.deepspeed_moe.gate.wg,1,0
+The quick brown fox jumps over the lazy dog.,model.layers.14.mlp.deepspeed_moe.gate.wg,2,0
+The quick brown fox jumps over the lazy dog.,model.layers.14.mlp.deepspeed_moe.gate.wg,3,0
+The quick brown fox jumps over the lazy dog.,model.layers.14.mlp.deepspeed_moe.gate.wg,4,0
+The quick brown fox jumps over the lazy dog.,model.layers.14.mlp.deepspeed_moe.gate.wg,5,0
+The quick brown fox jumps over the lazy dog.,model.layers.14.mlp.deepspeed_moe.gate.wg,6,0
+The quick brown fox jumps over the lazy dog.,model.layers.14.mlp.deepspeed_moe.gate.wg,7,0
+The quick brown fox jumps over the lazy dog.,model.layers.14.mlp.deepspeed_moe.gate.wg,8,0
+The quick brown fox jumps over the lazy dog.,model.layers.14.mlp.deepspeed_moe.gate.wg,9,0
+The quick brown fox jumps over the lazy dog.,model.layers.16.mlp.deepspeed_moe.gate.wg,0,0
+The quick brown fox jumps over the lazy dog.,model.layers.16.mlp.deepspeed_moe.gate.wg,1,0
+The quick brown fox jumps over the lazy dog.,model.layers.16.mlp.deepspeed_moe.gate.wg,2,0
+The quick brown fox jumps over the lazy dog.,model.layers.16.mlp.deepspeed_moe.gate.wg,3,0
+The quick brown fox jumps over the lazy dog.,model.layers.16.mlp.deepspeed_moe.gate.wg,4,0
+The quick brown fox jumps over the lazy dog.,model.layers.16.mlp.deepspeed_moe.gate.wg,5,0
+The quick brown fox jumps over the lazy dog.,model.layers.16.mlp.deepspeed_moe.gate.wg,6,0
+The quick brown fox jumps over the lazy dog.,model.layers.16.mlp.deepspeed_moe.gate.wg,7,0
+The quick brown fox jumps over the lazy dog.,model.layers.16.mlp.deepspeed_moe.gate.wg,8,0
+The quick brown fox jumps over the lazy dog.,model.layers.16.mlp.deepspeed_moe.gate.wg,9,0
+The quick brown fox jumps over the lazy dog.,model.layers.18.mlp.deepspeed_moe.gate.wg,0,0
+The quick brown fox jumps over the lazy dog.,model.layers.18.mlp.deepspeed_moe.gate.wg,1,0
+The quick brown fox jumps over the lazy dog.,model.layers.18.mlp.deepspeed_moe.gate.wg,2,0
+The quick brown fox jumps over the lazy dog.,model.layers.18.mlp.deepspeed_moe.gate.wg,3,0
+The quick brown fox jumps over the lazy dog.,model.layers.18.mlp.deepspeed_moe.gate.wg,4,0
+The quick brown fox jumps over the lazy dog.,model.layers.18.mlp.deepspeed_moe.gate.wg,5,0
+The quick brown fox jumps over the lazy dog.,model.layers.18.mlp.deepspeed_moe.gate.wg,6,0
+The quick brown fox jumps over the lazy dog.,model.layers.18.mlp.deepspeed_moe.gate.wg,7,0
+The quick brown fox jumps over the lazy dog.,model.layers.18.mlp.deepspeed_moe.gate.wg,8,0
+The quick brown fox jumps over the lazy dog.,model.layers.18.mlp.deepspeed_moe.gate.wg,9,0
+The quick brown fox jumps over the lazy dog.,model.layers.2.mlp.deepspeed_moe.gate.wg,0,0
+The quick brown fox jumps over the lazy dog.,model.layers.2.mlp.deepspeed_moe.gate.wg,1,0
+The quick brown fox jumps over the lazy dog.,model.layers.2.mlp.deepspeed_moe.gate.wg,2,0
+The quick brown fox jumps over the lazy dog.,model.layers.2.mlp.deepspeed_moe.gate.wg,3,0
+The quick brown fox jumps over the lazy dog.,model.layers.2.mlp.deepspeed_moe.gate.wg,4,0
+The quick brown fox jumps over the lazy dog.,model.layers.2.mlp.deepspeed_moe.gate.wg,5,0
+The quick brown fox jumps over the lazy dog.,model.layers.2.mlp.deepspeed_moe.gate.wg,6,0
+The quick brown fox jumps over the lazy dog.,model.layers.2.mlp.deepspeed_moe.gate.wg,7,0
+The quick brown fox jumps over the lazy dog.,model.layers.2.mlp.deepspeed_moe.gate.wg,8,0
+The quick brown fox jumps over the lazy dog.,model.layers.2.mlp.deepspeed_moe.gate.wg,9,0
+The quick brown fox jumps over the lazy dog.,model.layers.20.mlp.deepspeed_moe.gate.wg,0,0
+The quick brown fox jumps over the lazy dog.,model.layers.20.mlp.deepspeed_moe.gate.wg,1,0
+The quick brown fox jumps over the lazy dog.,model.layers.20.mlp.deepspeed_moe.gate.wg,2,0
+The quick brown fox jumps over the lazy dog.,model.layers.20.mlp.deepspeed_moe.gate.wg,3,0
+The quick brown fox jumps over the lazy dog.,model.layers.20.mlp.deepspeed_moe.gate.wg,4,0
+The quick brown fox jumps over the lazy dog.,model.layers.20.mlp.deepspeed_moe.gate.wg,5,0
+The quick brown fox jumps over the lazy dog.,model.layers.20.mlp.deepspeed_moe.gate.wg,6,0
+The quick brown fox jumps over the lazy dog.,model.layers.20.mlp.deepspeed_moe.gate.wg,7,0
+The quick brown fox jumps over the lazy dog.,model.layers.20.mlp.deepspeed_moe.gate.wg,8,0
+The quick brown fox jumps over the lazy dog.,model.layers.20.mlp.deepspeed_moe.gate.wg,9,0
+The quick brown fox jumps over the lazy dog.,model.layers.22.mlp.deepspeed_moe.gate.wg,0,0
+The quick brown fox jumps over the lazy dog.,model.layers.22.mlp.deepspeed_moe.gate.wg,1,0
+The quick brown fox jumps over the lazy dog.,model.layers.22.mlp.deepspeed_moe.gate.wg,2,0
+The quick brown fox jumps over the lazy dog.,model.layers.22.mlp.deepspeed_moe.gate.wg,3,0
+The quick brown fox jumps over the lazy dog.,model.layers.22.mlp.deepspeed_moe.gate.wg,4,0
+The quick brown fox jumps over the lazy dog.,model.layers.22.mlp.deepspeed_moe.gate.wg,5,0
+The quick brown fox jumps over the lazy dog.,model.layers.22.mlp.deepspeed_moe.gate.wg,6,0
+The quick brown fox jumps over the lazy dog.,model.layers.22.mlp.deepspeed_moe.gate.wg,7,0
+The quick brown fox jumps over the lazy dog.,model.layers.22.mlp.deepspeed_moe.gate.wg,8,0
+The quick brown fox jumps over the lazy dog.,model.layers.22.mlp.deepspeed_moe.gate.wg,9,0
+The quick brown fox jumps over the lazy dog.,model.layers.4.mlp.deepspeed_moe.gate.wg,0,0
+The quick brown fox jumps over the lazy dog.,model.layers.4.mlp.deepspeed_moe.gate.wg,1,0
+The quick brown fox jumps over the lazy dog.,model.layers.4.mlp.deepspeed_moe.gate.wg,2,0
+The quick brown fox jumps over the lazy dog.,model.layers.4.mlp.deepspeed_moe.gate.wg,3,0
+The quick brown fox jumps over the lazy dog.,model.layers.4.mlp.deepspeed_moe.gate.wg,4,0
+The quick brown fox jumps over the lazy dog.,model.layers.4.mlp.deepspeed_moe.gate.wg,5,0
+The quick brown fox jumps over the lazy dog.,model.layers.4.mlp.deepspeed_moe.gate.wg,6,0
+The quick brown fox jumps over the lazy dog.,model.layers.4.mlp.deepspeed_moe.gate.wg,7,0
+The quick brown fox jumps over the lazy dog.,model.layers.4.mlp.deepspeed_moe.gate.wg,8,0
+The quick brown fox jumps over the lazy dog.,model.layers.4.mlp.deepspeed_moe.gate.wg,9,0
+The quick brown fox jumps over the lazy dog.,model.layers.6.mlp.deepspeed_moe.gate.wg,0,0
+The quick brown fox jumps over the lazy dog.,model.layers.6.mlp.deepspeed_moe.gate.wg,1,0
+The quick brown fox jumps over the lazy dog.,model.layers.6.mlp.deepspeed_moe.gate.wg,2,0
+The quick brown fox jumps over the lazy dog.,model.layers.6.mlp.deepspeed_moe.gate.wg,3,0
+The quick brown fox jumps over the lazy dog.,model.layers.6.mlp.deepspeed_moe.gate.wg,4,0
+The quick brown fox jumps over the lazy dog.,model.layers.6.mlp.deepspeed_moe.gate.wg,5,0
+The quick brown fox jumps over the lazy dog.,model.layers.6.mlp.deepspeed_moe.gate.wg,6,0
+The quick brown fox jumps over the lazy dog.,model.layers.6.mlp.deepspeed_moe.gate.wg,7,0
+The quick brown fox jumps over the lazy dog.,model.layers.6.mlp.deepspeed_moe.gate.wg,8,0
+The quick brown fox jumps over the lazy dog.,model.layers.6.mlp.deepspeed_moe.gate.wg,9,0
+The quick brown fox jumps over the lazy dog.,model.layers.8.mlp.deepspeed_moe.gate.wg,0,0
+The quick brown fox jumps over the lazy dog.,model.layers.8.mlp.deepspeed_moe.gate.wg,1,0
+The quick brown fox jumps over the lazy dog.,model.layers.8.mlp.deepspeed_moe.gate.wg,2,0
+The quick brown fox jumps over the lazy dog.,model.layers.8.mlp.deepspeed_moe.gate.wg,3,0
+The quick brown fox jumps over the lazy dog.,model.layers.8.mlp.deepspeed_moe.gate.wg,4,0
+The quick brown fox jumps over the lazy dog.,model.layers.8.mlp.deepspeed_moe.gate.wg,5,0
+The quick brown fox jumps over the lazy dog.,model.layers.8.mlp.deepspeed_moe.gate.wg,6,0
+The quick brown fox jumps over the lazy dog.,model.layers.8.mlp.deepspeed_moe.gate.wg,7,0
+The quick brown fox jumps over the lazy dog.,model.layers.8.mlp.deepspeed_moe.gate.wg,8,0
+The quick brown fox jumps over the lazy dog.,model.layers.8.mlp.deepspeed_moe.gate.wg,9,0
+Artificial intelligence is transforming the way we live and work.,model.layers.0.mlp.deepspeed_moe.gate.wg,0,0
+Artificial intelligence is transforming the way we live and work.,model.layers.0.mlp.deepspeed_moe.gate.wg,1,0
+Artificial intelligence is transforming the way we live and work.,model.layers.0.mlp.deepspeed_moe.gate.wg,2,0
+Artificial intelligence is transforming the way we live and work.,model.layers.0.mlp.deepspeed_moe.gate.wg,3,0
+Artificial intelligence is transforming the way we live and work.,model.layers.0.mlp.deepspeed_moe.gate.wg,4,0
+Artificial intelligence is transforming the way we live and work.,model.layers.0.mlp.deepspeed_moe.gate.wg,5,0
+Artificial intelligence is transforming the way we live and work.,model.layers.0.mlp.deepspeed_moe.gate.wg,6,0
+Artificial intelligence is transforming the way we live and work.,model.layers.0.mlp.deepspeed_moe.gate.wg,7,0
+Artificial intelligence is transforming the way we live and work.,model.layers.0.mlp.deepspeed_moe.gate.wg,8,0
+Artificial intelligence is transforming the way we live and work.,model.layers.0.mlp.deepspeed_moe.gate.wg,9,0
+Artificial intelligence is transforming the way we live and work.,model.layers.0.mlp.deepspeed_moe.gate.wg,10,0
+Artificial intelligence is transforming the way we live and work.,model.layers.0.mlp.deepspeed_moe.gate.wg,11,0
+Artificial intelligence is transforming the way we live and work.,model.layers.10.mlp.deepspeed_moe.gate.wg,0,0
+Artificial intelligence is transforming the way we live and work.,model.layers.10.mlp.deepspeed_moe.gate.wg,1,0
+Artificial intelligence is transforming the way we live and work.,model.layers.10.mlp.deepspeed_moe.gate.wg,2,0
+Artificial intelligence is transforming the way we live and work.,model.layers.10.mlp.deepspeed_moe.gate.wg,3,0
+Artificial intelligence is transforming the way we live and work.,model.layers.10.mlp.deepspeed_moe.gate.wg,4,0
+Artificial intelligence is transforming the way we live and work.,model.layers.10.mlp.deepspeed_moe.gate.wg,5,0
+Artificial intelligence is transforming the way we live and work.,model.layers.10.mlp.deepspeed_moe.gate.wg,6,0
+Artificial intelligence is transforming the way we live and work.,model.layers.10.mlp.deepspeed_moe.gate.wg,7,0
+Artificial intelligence is transforming the way we live and work.,model.layers.10.mlp.deepspeed_moe.gate.wg,8,0
+Artificial intelligence is transforming the way we live and work.,model.layers.10.mlp.deepspeed_moe.gate.wg,9,0
+Artificial intelligence is transforming the way we live and work.,model.layers.10.mlp.deepspeed_moe.gate.wg,10,0
+Artificial intelligence is transforming the way we live and work.,model.layers.10.mlp.deepspeed_moe.gate.wg,11,0
+Artificial intelligence is transforming the way we live and work.,model.layers.12.mlp.deepspeed_moe.gate.wg,0,0
+Artificial intelligence is transforming the way we live and work.,model.layers.12.mlp.deepspeed_moe.gate.wg,1,0
+Artificial intelligence is transforming the way we live and work.,model.layers.12.mlp.deepspeed_moe.gate.wg,2,0
+Artificial intelligence is transforming the way we live and work.,model.layers.12.mlp.deepspeed_moe.gate.wg,3,0
+Artificial intelligence is transforming the way we live and work.,model.layers.12.mlp.deepspeed_moe.gate.wg,4,0
+Artificial intelligence is transforming the way we live and work.,model.layers.12.mlp.deepspeed_moe.gate.wg,5,0
+Artificial intelligence is transforming the way we live and work.,model.layers.12.mlp.deepspeed_moe.gate.wg,6,0
+Artificial intelligence is transforming the way we live and work.,model.layers.12.mlp.deepspeed_moe.gate.wg,7,0
+Artificial intelligence is transforming the way we live and work.,model.layers.12.mlp.deepspeed_moe.gate.wg,8,0
+Artificial intelligence is transforming the way we live and work.,model.layers.12.mlp.deepspeed_moe.gate.wg,9,0
+Artificial intelligence is transforming the way we live and work.,model.layers.12.mlp.deepspeed_moe.gate.wg,10,0
+Artificial intelligence is transforming the way we live and work.,model.layers.12.mlp.deepspeed_moe.gate.wg,11,0
+Artificial intelligence is transforming the way we live and work.,model.layers.14.mlp.deepspeed_moe.gate.wg,0,0
+Artificial intelligence is transforming the way we live and work.,model.layers.14.mlp.deepspeed_moe.gate.wg,1,0
+Artificial intelligence is transforming the way we live and work.,model.layers.14.mlp.deepspeed_moe.gate.wg,2,0
+Artificial intelligence is transforming the way we live and work.,model.layers.14.mlp.deepspeed_moe.gate.wg,3,0
+Artificial intelligence is transforming the way we live and work.,model.layers.14.mlp.deepspeed_moe.gate.wg,4,0
+Artificial intelligence is transforming the way we live and work.,model.layers.14.mlp.deepspeed_moe.gate.wg,5,0
+Artificial intelligence is transforming the way we live and work.,model.layers.14.mlp.deepspeed_moe.gate.wg,6,0
+Artificial intelligence is transforming the way we live and work.,model.layers.14.mlp.deepspeed_moe.gate.wg,7,0
+Artificial intelligence is transforming the way we live and work.,model.layers.14.mlp.deepspeed_moe.gate.wg,8,0
+Artificial intelligence is transforming the way we live and work.,model.layers.14.mlp.deepspeed_moe.gate.wg,9,0
+Artificial intelligence is transforming the way we live and work.,model.layers.14.mlp.deepspeed_moe.gate.wg,10,0
+Artificial intelligence is transforming the way we live and work.,model.layers.14.mlp.deepspeed_moe.gate.wg,11,0
+Artificial intelligence is transforming the way we live and work.,model.layers.16.mlp.deepspeed_moe.gate.wg,0,0
+Artificial intelligence is transforming the way we live and work.,model.layers.16.mlp.deepspeed_moe.gate.wg,1,0
+Artificial intelligence is transforming the way we live and work.,model.layers.16.mlp.deepspeed_moe.gate.wg,2,0
+Artificial intelligence is transforming the way we live and work.,model.layers.16.mlp.deepspeed_moe.gate.wg,3,0
+Artificial intelligence is transforming the way we live and work.,model.layers.16.mlp.deepspeed_moe.gate.wg,4,0
+Artificial intelligence is transforming the way we live and work.,model.layers.16.mlp.deepspeed_moe.gate.wg,5,0
+Artificial intelligence is transforming the way we live and work.,model.layers.16.mlp.deepspeed_moe.gate.wg,6,0
+Artificial intelligence is transforming the way we live and work.,model.layers.16.mlp.deepspeed_moe.gate.wg,7,0
+Artificial intelligence is transforming the way we live and work.,model.layers.16.mlp.deepspeed_moe.gate.wg,8,0
+Artificial intelligence is transforming the way we live and work.,model.layers.16.mlp.deepspeed_moe.gate.wg,9,0
+Artificial intelligence is transforming the way we live and work.,model.layers.16.mlp.deepspeed_moe.gate.wg,10,0
+Artificial intelligence is transforming the way we live and work.,model.layers.16.mlp.deepspeed_moe.gate.wg,11,0
+Artificial intelligence is transforming the way we live and work.,model.layers.18.mlp.deepspeed_moe.gate.wg,0,0
+Artificial intelligence is transforming the way we live and work.,model.layers.18.mlp.deepspeed_moe.gate.wg,1,0
+Artificial intelligence is transforming the way we live and work.,model.layers.18.mlp.deepspeed_moe.gate.wg,2,0
+Artificial intelligence is transforming the way we live and work.,model.layers.18.mlp.deepspeed_moe.gate.wg,3,0
+Artificial intelligence is transforming the way we live and work.,model.layers.18.mlp.deepspeed_moe.gate.wg,4,0
+Artificial intelligence is transforming the way we live and work.,model.layers.18.mlp.deepspeed_moe.gate.wg,5,0
+Artificial intelligence is transforming the way we live and work.,model.layers.18.mlp.deepspeed_moe.gate.wg,6,0
+Artificial intelligence is transforming the way we live and work.,model.layers.18.mlp.deepspeed_moe.gate.wg,7,0
+Artificial intelligence is transforming the way we live and work.,model.layers.18.mlp.deepspeed_moe.gate.wg,8,0
+Artificial intelligence is transforming the way we live and work.,model.layers.18.mlp.deepspeed_moe.gate.wg,9,0
+Artificial intelligence is transforming the way we live and work.,model.layers.18.mlp.deepspeed_moe.gate.wg,10,0
+Artificial intelligence is transforming the way we live and work.,model.layers.18.mlp.deepspeed_moe.gate.wg,11,0
+Artificial intelligence is transforming the way we live and work.,model.layers.2.mlp.deepspeed_moe.gate.wg,0,0
+Artificial intelligence is transforming the way we live and work.,model.layers.2.mlp.deepspeed_moe.gate.wg,1,0
+Artificial intelligence is transforming the way we live and work.,model.layers.2.mlp.deepspeed_moe.gate.wg,2,0
+Artificial intelligence is transforming the way we live and work.,model.layers.2.mlp.deepspeed_moe.gate.wg,3,0
+Artificial intelligence is transforming the way we live and work.,model.layers.2.mlp.deepspeed_moe.gate.wg,4,0
+Artificial intelligence is transforming the way we live and work.,model.layers.2.mlp.deepspeed_moe.gate.wg,5,0
+Artificial intelligence is transforming the way we live and work.,model.layers.2.mlp.deepspeed_moe.gate.wg,6,0
+Artificial intelligence is transforming the way we live and work.,model.layers.2.mlp.deepspeed_moe.gate.wg,7,0
+Artificial intelligence is transforming the way we live and work.,model.layers.2.mlp.deepspeed_moe.gate.wg,8,0
+Artificial intelligence is transforming the way we live and work.,model.layers.2.mlp.deepspeed_moe.gate.wg,9,0
+Artificial intelligence is transforming the way we live and work.,model.layers.2.mlp.deepspeed_moe.gate.wg,10,0
+Artificial intelligence is transforming the way we live and work.,model.layers.2.mlp.deepspeed_moe.gate.wg,11,0
+Artificial intelligence is transforming the way we live and work.,model.layers.20.mlp.deepspeed_moe.gate.wg,0,0
+Artificial intelligence is transforming the way we live and work.,model.layers.20.mlp.deepspeed_moe.gate.wg,1,0
+Artificial intelligence is transforming the way we live and work.,model.layers.20.mlp.deepspeed_moe.gate.wg,2,0
+Artificial intelligence is transforming the way we live and work.,model.layers.20.mlp.deepspeed_moe.gate.wg,3,0
+Artificial intelligence is transforming the way we live and work.,model.layers.20.mlp.deepspeed_moe.gate.wg,4,0
+Artificial intelligence is transforming the way we live and work.,model.layers.20.mlp.deepspeed_moe.gate.wg,5,0
+Artificial intelligence is transforming the way we live and work.,model.layers.20.mlp.deepspeed_moe.gate.wg,6,0
+Artificial intelligence is transforming the way we live and work.,model.layers.20.mlp.deepspeed_moe.gate.wg,7,0
+Artificial intelligence is transforming the way we live and work.,model.layers.20.mlp.deepspeed_moe.gate.wg,8,0
+Artificial intelligence is transforming the way we live and work.,model.layers.20.mlp.deepspeed_moe.gate.wg,9,0
+Artificial intelligence is transforming the way we live and work.,model.layers.20.mlp.deepspeed_moe.gate.wg,10,0
+Artificial intelligence is transforming the way we live and work.,model.layers.20.mlp.deepspeed_moe.gate.wg,11,0
+Artificial intelligence is transforming the way we live and work.,model.layers.22.mlp.deepspeed_moe.gate.wg,0,0
+Artificial intelligence is transforming the way we live and work.,model.layers.22.mlp.deepspeed_moe.gate.wg,1,0
+Artificial intelligence is transforming the way we live and work.,model.layers.22.mlp.deepspeed_moe.gate.wg,2,0
+Artificial intelligence is transforming the way we live and work.,model.layers.22.mlp.deepspeed_moe.gate.wg,3,0
+Artificial intelligence is transforming the way we live and work.,model.layers.22.mlp.deepspeed_moe.gate.wg,4,0
+Artificial intelligence is transforming the way we live and work.,model.layers.22.mlp.deepspeed_moe.gate.wg,5,0
+Artificial intelligence is transforming the way we live and work.,model.layers.22.mlp.deepspeed_moe.gate.wg,6,0
+Artificial intelligence is transforming the way we live and work.,model.layers.22.mlp.deepspeed_moe.gate.wg,7,0
+Artificial intelligence is transforming the way we live and work.,model.layers.22.mlp.deepspeed_moe.gate.wg,8,0
+Artificial intelligence is transforming the way we live and work.,model.layers.22.mlp.deepspeed_moe.gate.wg,9,0
+Artificial intelligence is transforming the way we live and work.,model.layers.22.mlp.deepspeed_moe.gate.wg,10,0
+Artificial intelligence is transforming the way we live and work.,model.layers.22.mlp.deepspeed_moe.gate.wg,11,0
+Artificial intelligence is transforming the way we live and work.,model.layers.4.mlp.deepspeed_moe.gate.wg,0,0
+Artificial intelligence is transforming the way we live and work.,model.layers.4.mlp.deepspeed_moe.gate.wg,1,0
+Artificial intelligence is transforming the way we live and work.,model.layers.4.mlp.deepspeed_moe.gate.wg,2,0
+Artificial intelligence is transforming the way we live and work.,model.layers.4.mlp.deepspeed_moe.gate.wg,3,0
+Artificial intelligence is transforming the way we live and work.,model.layers.4.mlp.deepspeed_moe.gate.wg,4,0
+Artificial intelligence is transforming the way we live and work.,model.layers.4.mlp.deepspeed_moe.gate.wg,5,0
+Artificial intelligence is transforming the way we live and work.,model.layers.4.mlp.deepspeed_moe.gate.wg,6,0
+Artificial intelligence is transforming the way we live and work.,model.layers.4.mlp.deepspeed_moe.gate.wg,7,0
+Artificial intelligence is transforming the way we live and work.,model.layers.4.mlp.deepspeed_moe.gate.wg,8,0
+Artificial intelligence is transforming the way we live and work.,model.layers.4.mlp.deepspeed_moe.gate.wg,9,0
+Artificial intelligence is transforming the way we live and work.,model.layers.4.mlp.deepspeed_moe.gate.wg,10,0
+Artificial intelligence is transforming the way we live and work.,model.layers.4.mlp.deepspeed_moe.gate.wg,11,0
+Artificial intelligence is transforming the way we live and work.,model.layers.6.mlp.deepspeed_moe.gate.wg,0,0
+Artificial intelligence is transforming the way we live and work.,model.layers.6.mlp.deepspeed_moe.gate.wg,1,0
+Artificial intelligence is transforming the way we live and work.,model.layers.6.mlp.deepspeed_moe.gate.wg,2,0
+Artificial intelligence is transforming the way we live and work.,model.layers.6.mlp.deepspeed_moe.gate.wg,3,0
+Artificial intelligence is transforming the way we live and work.,model.layers.6.mlp.deepspeed_moe.gate.wg,4,0
+Artificial intelligence is transforming the way we live and work.,model.layers.6.mlp.deepspeed_moe.gate.wg,5,0
+Artificial intelligence is transforming the way we live and work.,model.layers.6.mlp.deepspeed_moe.gate.wg,6,0
+Artificial intelligence is transforming the way we live and work.,model.layers.6.mlp.deepspeed_moe.gate.wg,7,0
+Artificial intelligence is transforming the way we live and work.,model.layers.6.mlp.deepspeed_moe.gate.wg,8,0
+Artificial intelligence is transforming the way we live and work.,model.layers.6.mlp.deepspeed_moe.gate.wg,9,0
+Artificial intelligence is transforming the way we live and work.,model.layers.6.mlp.deepspeed_moe.gate.wg,10,0
+Artificial intelligence is transforming the way we live and work.,model.layers.6.mlp.deepspeed_moe.gate.wg,11,0
+Artificial intelligence is transforming the way we live and work.,model.layers.8.mlp.deepspeed_moe.gate.wg,0,0
+Artificial intelligence is transforming the way we live and work.,model.layers.8.mlp.deepspeed_moe.gate.wg,1,0
+Artificial intelligence is transforming the way we live and work.,model.layers.8.mlp.deepspeed_moe.gate.wg,2,0
+Artificial intelligence is transforming the way we live and work.,model.layers.8.mlp.deepspeed_moe.gate.wg,3,0
+Artificial intelligence is transforming the way we live and work.,model.layers.8.mlp.deepspeed_moe.gate.wg,4,0
+Artificial intelligence is transforming the way we live and work.,model.layers.8.mlp.deepspeed_moe.gate.wg,5,0
+Artificial intelligence is transforming the way we live and work.,model.layers.8.mlp.deepspeed_moe.gate.wg,6,0
+Artificial intelligence is transforming the way we live and work.,model.layers.8.mlp.deepspeed_moe.gate.wg,7,0
+Artificial intelligence is transforming the way we live and work.,model.layers.8.mlp.deepspeed_moe.gate.wg,8,0
+Artificial intelligence is transforming the way we live and work.,model.layers.8.mlp.deepspeed_moe.gate.wg,9,0
+Artificial intelligence is transforming the way we live and work.,model.layers.8.mlp.deepspeed_moe.gate.wg,10,0
+Artificial intelligence is transforming the way we live and work.,model.layers.8.mlp.deepspeed_moe.gate.wg,11,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.0.mlp.deepspeed_moe.gate.wg,0,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.0.mlp.deepspeed_moe.gate.wg,1,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.0.mlp.deepspeed_moe.gate.wg,2,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.0.mlp.deepspeed_moe.gate.wg,3,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.0.mlp.deepspeed_moe.gate.wg,4,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.0.mlp.deepspeed_moe.gate.wg,5,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.0.mlp.deepspeed_moe.gate.wg,6,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.0.mlp.deepspeed_moe.gate.wg,7,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.0.mlp.deepspeed_moe.gate.wg,8,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.0.mlp.deepspeed_moe.gate.wg,9,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.0.mlp.deepspeed_moe.gate.wg,10,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.0.mlp.deepspeed_moe.gate.wg,11,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.0.mlp.deepspeed_moe.gate.wg,12,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.10.mlp.deepspeed_moe.gate.wg,0,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.10.mlp.deepspeed_moe.gate.wg,1,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.10.mlp.deepspeed_moe.gate.wg,2,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.10.mlp.deepspeed_moe.gate.wg,3,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.10.mlp.deepspeed_moe.gate.wg,4,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.10.mlp.deepspeed_moe.gate.wg,5,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.10.mlp.deepspeed_moe.gate.wg,6,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.10.mlp.deepspeed_moe.gate.wg,7,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.10.mlp.deepspeed_moe.gate.wg,8,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.10.mlp.deepspeed_moe.gate.wg,9,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.10.mlp.deepspeed_moe.gate.wg,10,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.10.mlp.deepspeed_moe.gate.wg,11,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.10.mlp.deepspeed_moe.gate.wg,12,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.12.mlp.deepspeed_moe.gate.wg,0,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.12.mlp.deepspeed_moe.gate.wg,1,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.12.mlp.deepspeed_moe.gate.wg,2,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.12.mlp.deepspeed_moe.gate.wg,3,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.12.mlp.deepspeed_moe.gate.wg,4,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.12.mlp.deepspeed_moe.gate.wg,5,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.12.mlp.deepspeed_moe.gate.wg,6,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.12.mlp.deepspeed_moe.gate.wg,7,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.12.mlp.deepspeed_moe.gate.wg,8,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.12.mlp.deepspeed_moe.gate.wg,9,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.12.mlp.deepspeed_moe.gate.wg,10,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.12.mlp.deepspeed_moe.gate.wg,11,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.12.mlp.deepspeed_moe.gate.wg,12,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.14.mlp.deepspeed_moe.gate.wg,0,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.14.mlp.deepspeed_moe.gate.wg,1,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.14.mlp.deepspeed_moe.gate.wg,2,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.14.mlp.deepspeed_moe.gate.wg,3,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.14.mlp.deepspeed_moe.gate.wg,4,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.14.mlp.deepspeed_moe.gate.wg,5,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.14.mlp.deepspeed_moe.gate.wg,6,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.14.mlp.deepspeed_moe.gate.wg,7,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.14.mlp.deepspeed_moe.gate.wg,8,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.14.mlp.deepspeed_moe.gate.wg,9,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.14.mlp.deepspeed_moe.gate.wg,10,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.14.mlp.deepspeed_moe.gate.wg,11,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.14.mlp.deepspeed_moe.gate.wg,12,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.16.mlp.deepspeed_moe.gate.wg,0,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.16.mlp.deepspeed_moe.gate.wg,1,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.16.mlp.deepspeed_moe.gate.wg,2,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.16.mlp.deepspeed_moe.gate.wg,3,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.16.mlp.deepspeed_moe.gate.wg,4,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.16.mlp.deepspeed_moe.gate.wg,5,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.16.mlp.deepspeed_moe.gate.wg,6,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.16.mlp.deepspeed_moe.gate.wg,7,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.16.mlp.deepspeed_moe.gate.wg,8,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.16.mlp.deepspeed_moe.gate.wg,9,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.16.mlp.deepspeed_moe.gate.wg,10,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.16.mlp.deepspeed_moe.gate.wg,11,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.16.mlp.deepspeed_moe.gate.wg,12,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.18.mlp.deepspeed_moe.gate.wg,0,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.18.mlp.deepspeed_moe.gate.wg,1,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.18.mlp.deepspeed_moe.gate.wg,2,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.18.mlp.deepspeed_moe.gate.wg,3,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.18.mlp.deepspeed_moe.gate.wg,4,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.18.mlp.deepspeed_moe.gate.wg,5,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.18.mlp.deepspeed_moe.gate.wg,6,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.18.mlp.deepspeed_moe.gate.wg,7,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.18.mlp.deepspeed_moe.gate.wg,8,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.18.mlp.deepspeed_moe.gate.wg,9,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.18.mlp.deepspeed_moe.gate.wg,10,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.18.mlp.deepspeed_moe.gate.wg,11,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.18.mlp.deepspeed_moe.gate.wg,12,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.2.mlp.deepspeed_moe.gate.wg,0,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.2.mlp.deepspeed_moe.gate.wg,1,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.2.mlp.deepspeed_moe.gate.wg,2,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.2.mlp.deepspeed_moe.gate.wg,3,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.2.mlp.deepspeed_moe.gate.wg,4,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.2.mlp.deepspeed_moe.gate.wg,5,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.2.mlp.deepspeed_moe.gate.wg,6,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.2.mlp.deepspeed_moe.gate.wg,7,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.2.mlp.deepspeed_moe.gate.wg,8,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.2.mlp.deepspeed_moe.gate.wg,9,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.2.mlp.deepspeed_moe.gate.wg,10,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.2.mlp.deepspeed_moe.gate.wg,11,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.2.mlp.deepspeed_moe.gate.wg,12,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.20.mlp.deepspeed_moe.gate.wg,0,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.20.mlp.deepspeed_moe.gate.wg,1,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.20.mlp.deepspeed_moe.gate.wg,2,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.20.mlp.deepspeed_moe.gate.wg,3,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.20.mlp.deepspeed_moe.gate.wg,4,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.20.mlp.deepspeed_moe.gate.wg,5,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.20.mlp.deepspeed_moe.gate.wg,6,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.20.mlp.deepspeed_moe.gate.wg,7,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.20.mlp.deepspeed_moe.gate.wg,8,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.20.mlp.deepspeed_moe.gate.wg,9,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.20.mlp.deepspeed_moe.gate.wg,10,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.20.mlp.deepspeed_moe.gate.wg,11,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.20.mlp.deepspeed_moe.gate.wg,12,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.22.mlp.deepspeed_moe.gate.wg,0,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.22.mlp.deepspeed_moe.gate.wg,1,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.22.mlp.deepspeed_moe.gate.wg,2,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.22.mlp.deepspeed_moe.gate.wg,3,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.22.mlp.deepspeed_moe.gate.wg,4,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.22.mlp.deepspeed_moe.gate.wg,5,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.22.mlp.deepspeed_moe.gate.wg,6,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.22.mlp.deepspeed_moe.gate.wg,7,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.22.mlp.deepspeed_moe.gate.wg,8,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.22.mlp.deepspeed_moe.gate.wg,9,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.22.mlp.deepspeed_moe.gate.wg,10,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.22.mlp.deepspeed_moe.gate.wg,11,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.22.mlp.deepspeed_moe.gate.wg,12,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.4.mlp.deepspeed_moe.gate.wg,0,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.4.mlp.deepspeed_moe.gate.wg,1,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.4.mlp.deepspeed_moe.gate.wg,2,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.4.mlp.deepspeed_moe.gate.wg,3,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.4.mlp.deepspeed_moe.gate.wg,4,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.4.mlp.deepspeed_moe.gate.wg,5,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.4.mlp.deepspeed_moe.gate.wg,6,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.4.mlp.deepspeed_moe.gate.wg,7,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.4.mlp.deepspeed_moe.gate.wg,8,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.4.mlp.deepspeed_moe.gate.wg,9,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.4.mlp.deepspeed_moe.gate.wg,10,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.4.mlp.deepspeed_moe.gate.wg,11,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.4.mlp.deepspeed_moe.gate.wg,12,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.6.mlp.deepspeed_moe.gate.wg,0,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.6.mlp.deepspeed_moe.gate.wg,1,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.6.mlp.deepspeed_moe.gate.wg,2,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.6.mlp.deepspeed_moe.gate.wg,3,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.6.mlp.deepspeed_moe.gate.wg,4,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.6.mlp.deepspeed_moe.gate.wg,5,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.6.mlp.deepspeed_moe.gate.wg,6,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.6.mlp.deepspeed_moe.gate.wg,7,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.6.mlp.deepspeed_moe.gate.wg,8,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.6.mlp.deepspeed_moe.gate.wg,9,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.6.mlp.deepspeed_moe.gate.wg,10,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.6.mlp.deepspeed_moe.gate.wg,11,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.6.mlp.deepspeed_moe.gate.wg,12,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.8.mlp.deepspeed_moe.gate.wg,0,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.8.mlp.deepspeed_moe.gate.wg,1,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.8.mlp.deepspeed_moe.gate.wg,2,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.8.mlp.deepspeed_moe.gate.wg,3,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.8.mlp.deepspeed_moe.gate.wg,4,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.8.mlp.deepspeed_moe.gate.wg,5,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.8.mlp.deepspeed_moe.gate.wg,6,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.8.mlp.deepspeed_moe.gate.wg,7,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.8.mlp.deepspeed_moe.gate.wg,8,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.8.mlp.deepspeed_moe.gate.wg,9,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.8.mlp.deepspeed_moe.gate.wg,10,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.8.mlp.deepspeed_moe.gate.wg,11,0
+"In quantum computing, qubits can exist in superposition states.",model.layers.8.mlp.deepspeed_moe.gate.wg,12,0
+The mitochondria is the powerhouse of the cell.,model.layers.0.mlp.deepspeed_moe.gate.wg,0,0
+The mitochondria is the powerhouse of the cell.,model.layers.0.mlp.deepspeed_moe.gate.wg,1,0
+The mitochondria is the powerhouse of the cell.,model.layers.0.mlp.deepspeed_moe.gate.wg,2,0
+The mitochondria is the powerhouse of the cell.,model.layers.0.mlp.deepspeed_moe.gate.wg,3,0
+The mitochondria is the powerhouse of the cell.,model.layers.0.mlp.deepspeed_moe.gate.wg,4,0
+The mitochondria is the powerhouse of the cell.,model.layers.0.mlp.deepspeed_moe.gate.wg,5,0
+The mitochondria is the powerhouse of the cell.,model.layers.0.mlp.deepspeed_moe.gate.wg,6,0
+The mitochondria is the powerhouse of the cell.,model.layers.0.mlp.deepspeed_moe.gate.wg,7,0
+The mitochondria is the powerhouse of the cell.,model.layers.0.mlp.deepspeed_moe.gate.wg,8,0
+The mitochondria is the powerhouse of the cell.,model.layers.0.mlp.deepspeed_moe.gate.wg,9,0
+The mitochondria is the powerhouse of the cell.,model.layers.10.mlp.deepspeed_moe.gate.wg,0,0
+The mitochondria is the powerhouse of the cell.,model.layers.10.mlp.deepspeed_moe.gate.wg,1,0
+The mitochondria is the powerhouse of the cell.,model.layers.10.mlp.deepspeed_moe.gate.wg,2,0
+The mitochondria is the powerhouse of the cell.,model.layers.10.mlp.deepspeed_moe.gate.wg,3,0
+The mitochondria is the powerhouse of the cell.,model.layers.10.mlp.deepspeed_moe.gate.wg,4,0
+The mitochondria is the powerhouse of the cell.,model.layers.10.mlp.deepspeed_moe.gate.wg,5,0
+The mitochondria is the powerhouse of the cell.,model.layers.10.mlp.deepspeed_moe.gate.wg,6,0
+The mitochondria is the powerhouse of the cell.,model.layers.10.mlp.deepspeed_moe.gate.wg,7,0
+The mitochondria is the powerhouse of the cell.,model.layers.10.mlp.deepspeed_moe.gate.wg,8,0
+The mitochondria is the powerhouse of the cell.,model.layers.10.mlp.deepspeed_moe.gate.wg,9,0
+The mitochondria is the powerhouse of the cell.,model.layers.12.mlp.deepspeed_moe.gate.wg,0,0
+The mitochondria is the powerhouse of the cell.,model.layers.12.mlp.deepspeed_moe.gate.wg,1,0
+The mitochondria is the powerhouse of the cell.,model.layers.12.mlp.deepspeed_moe.gate.wg,2,0
+The mitochondria is the powerhouse of the cell.,model.layers.12.mlp.deepspeed_moe.gate.wg,3,0
+The mitochondria is the powerhouse of the cell.,model.layers.12.mlp.deepspeed_moe.gate.wg,4,0
+The mitochondria is the powerhouse of the cell.,model.layers.12.mlp.deepspeed_moe.gate.wg,5,0
+The mitochondria is the powerhouse of the cell.,model.layers.12.mlp.deepspeed_moe.gate.wg,6,0
+The mitochondria is the powerhouse of the cell.,model.layers.12.mlp.deepspeed_moe.gate.wg,7,0
+The mitochondria is the powerhouse of the cell.,model.layers.12.mlp.deepspeed_moe.gate.wg,8,0
+The mitochondria is the powerhouse of the cell.,model.layers.12.mlp.deepspeed_moe.gate.wg,9,0
+The mitochondria is the powerhouse of the cell.,model.layers.14.mlp.deepspeed_moe.gate.wg,0,0
+The mitochondria is the powerhouse of the cell.,model.layers.14.mlp.deepspeed_moe.gate.wg,1,0
+The mitochondria is the powerhouse of the cell.,model.layers.14.mlp.deepspeed_moe.gate.wg,2,0
+The mitochondria is the powerhouse of the cell.,model.layers.14.mlp.deepspeed_moe.gate.wg,3,0
+The mitochondria is the powerhouse of the cell.,model.layers.14.mlp.deepspeed_moe.gate.wg,4,0
+The mitochondria is the powerhouse of the cell.,model.layers.14.mlp.deepspeed_moe.gate.wg,5,0
+The mitochondria is the powerhouse of the cell.,model.layers.14.mlp.deepspeed_moe.gate.wg,6,0
+The mitochondria is the powerhouse of the cell.,model.layers.14.mlp.deepspeed_moe.gate.wg,7,0
+The mitochondria is the powerhouse of the cell.,model.layers.14.mlp.deepspeed_moe.gate.wg,8,0
+The mitochondria is the powerhouse of the cell.,model.layers.14.mlp.deepspeed_moe.gate.wg,9,0
+The mitochondria is the powerhouse of the cell.,model.layers.16.mlp.deepspeed_moe.gate.wg,0,0
+The mitochondria is the powerhouse of the cell.,model.layers.16.mlp.deepspeed_moe.gate.wg,1,0
+The mitochondria is the powerhouse of the cell.,model.layers.16.mlp.deepspeed_moe.gate.wg,2,0
+The mitochondria is the powerhouse of the cell.,model.layers.16.mlp.deepspeed_moe.gate.wg,3,0
+The mitochondria is the powerhouse of the cell.,model.layers.16.mlp.deepspeed_moe.gate.wg,4,0
+The mitochondria is the powerhouse of the cell.,model.layers.16.mlp.deepspeed_moe.gate.wg,5,0
+The mitochondria is the powerhouse of the cell.,model.layers.16.mlp.deepspeed_moe.gate.wg,6,0
+The mitochondria is the powerhouse of the cell.,model.layers.16.mlp.deepspeed_moe.gate.wg,7,0
+The mitochondria is the powerhouse of the cell.,model.layers.16.mlp.deepspeed_moe.gate.wg,8,0
+The mitochondria is the powerhouse of the cell.,model.layers.16.mlp.deepspeed_moe.gate.wg,9,0
+The mitochondria is the powerhouse of the cell.,model.layers.18.mlp.deepspeed_moe.gate.wg,0,0
+The mitochondria is the powerhouse of the cell.,model.layers.18.mlp.deepspeed_moe.gate.wg,1,0
+The mitochondria is the powerhouse of the cell.,model.layers.18.mlp.deepspeed_moe.gate.wg,2,0
+The mitochondria is the powerhouse of the cell.,model.layers.18.mlp.deepspeed_moe.gate.wg,3,0
+The mitochondria is the powerhouse of the cell.,model.layers.18.mlp.deepspeed_moe.gate.wg,4,0
+The mitochondria is the powerhouse of the cell.,model.layers.18.mlp.deepspeed_moe.gate.wg,5,0
+The mitochondria is the powerhouse of the cell.,model.layers.18.mlp.deepspeed_moe.gate.wg,6,0
+The mitochondria is the powerhouse of the cell.,model.layers.18.mlp.deepspeed_moe.gate.wg,7,0
+The mitochondria is the powerhouse of the cell.,model.layers.18.mlp.deepspeed_moe.gate.wg,8,0
+The mitochondria is the powerhouse of the cell.,model.layers.18.mlp.deepspeed_moe.gate.wg,9,0
+The mitochondria is the powerhouse of the cell.,model.layers.2.mlp.deepspeed_moe.gate.wg,0,0
+The mitochondria is the powerhouse of the cell.,model.layers.2.mlp.deepspeed_moe.gate.wg,1,0
+The mitochondria is the powerhouse of the cell.,model.layers.2.mlp.deepspeed_moe.gate.wg,2,0
+The mitochondria is the powerhouse of the cell.,model.layers.2.mlp.deepspeed_moe.gate.wg,3,0
+The mitochondria is the powerhouse of the cell.,model.layers.2.mlp.deepspeed_moe.gate.wg,4,0
+The mitochondria is the powerhouse of the cell.,model.layers.2.mlp.deepspeed_moe.gate.wg,5,0
+The mitochondria is the powerhouse of the cell.,model.layers.2.mlp.deepspeed_moe.gate.wg,6,0
+The mitochondria is the powerhouse of the cell.,model.layers.2.mlp.deepspeed_moe.gate.wg,7,0
+The mitochondria is the powerhouse of the cell.,model.layers.2.mlp.deepspeed_moe.gate.wg,8,0
+The mitochondria is the powerhouse of the cell.,model.layers.2.mlp.deepspeed_moe.gate.wg,9,0
+The mitochondria is the powerhouse of the cell.,model.layers.20.mlp.deepspeed_moe.gate.wg,0,0
+The mitochondria is the powerhouse of the cell.,model.layers.20.mlp.deepspeed_moe.gate.wg,1,0
+The mitochondria is the powerhouse of the cell.,model.layers.20.mlp.deepspeed_moe.gate.wg,2,0
+The mitochondria is the powerhouse of the cell.,model.layers.20.mlp.deepspeed_moe.gate.wg,3,0
+The mitochondria is the powerhouse of the cell.,model.layers.20.mlp.deepspeed_moe.gate.wg,4,0
+The mitochondria is the powerhouse of the cell.,model.layers.20.mlp.deepspeed_moe.gate.wg,5,0
+The mitochondria is the powerhouse of the cell.,model.layers.20.mlp.deepspeed_moe.gate.wg,6,0
+The mitochondria is the powerhouse of the cell.,model.layers.20.mlp.deepspeed_moe.gate.wg,7,0
+The mitochondria is the powerhouse of the cell.,model.layers.20.mlp.deepspeed_moe.gate.wg,8,0
+The mitochondria is the powerhouse of the cell.,model.layers.20.mlp.deepspeed_moe.gate.wg,9,0
+The mitochondria is the powerhouse of the cell.,model.layers.22.mlp.deepspeed_moe.gate.wg,0,0
+The mitochondria is the powerhouse of the cell.,model.layers.22.mlp.deepspeed_moe.gate.wg,1,0
+The mitochondria is the powerhouse of the cell.,model.layers.22.mlp.deepspeed_moe.gate.wg,2,0
+The mitochondria is the powerhouse of the cell.,model.layers.22.mlp.deepspeed_moe.gate.wg,3,0
+The mitochondria is the powerhouse of the cell.,model.layers.22.mlp.deepspeed_moe.gate.wg,4,0
+The mitochondria is the powerhouse of the cell.,model.layers.22.mlp.deepspeed_moe.gate.wg,5,0
+The mitochondria is the powerhouse of the cell.,model.layers.22.mlp.deepspeed_moe.gate.wg,6,0
+The mitochondria is the powerhouse of the cell.,model.layers.22.mlp.deepspeed_moe.gate.wg,7,0
+The mitochondria is the powerhouse of the cell.,model.layers.22.mlp.deepspeed_moe.gate.wg,8,0
+The mitochondria is the powerhouse of the cell.,model.layers.22.mlp.deepspeed_moe.gate.wg,9,0
+The mitochondria is the powerhouse of the cell.,model.layers.4.mlp.deepspeed_moe.gate.wg,0,0
+The mitochondria is the powerhouse of the cell.,model.layers.4.mlp.deepspeed_moe.gate.wg,1,0
+The mitochondria is the powerhouse of the cell.,model.layers.4.mlp.deepspeed_moe.gate.wg,2,0
+The mitochondria is the powerhouse of the cell.,model.layers.4.mlp.deepspeed_moe.gate.wg,3,0
+The mitochondria is the powerhouse of the cell.,model.layers.4.mlp.deepspeed_moe.gate.wg,4,0
+The mitochondria is the powerhouse of the cell.,model.layers.4.mlp.deepspeed_moe.gate.wg,5,0
+The mitochondria is the powerhouse of the cell.,model.layers.4.mlp.deepspeed_moe.gate.wg,6,0
+The mitochondria is the powerhouse of the cell.,model.layers.4.mlp.deepspeed_moe.gate.wg,7,0
+The mitochondria is the powerhouse of the cell.,model.layers.4.mlp.deepspeed_moe.gate.wg,8,0
+The mitochondria is the powerhouse of the cell.,model.layers.4.mlp.deepspeed_moe.gate.wg,9,0
+The mitochondria is the powerhouse of the cell.,model.layers.6.mlp.deepspeed_moe.gate.wg,0,0
+The mitochondria is the powerhouse of the cell.,model.layers.6.mlp.deepspeed_moe.gate.wg,1,0
+The mitochondria is the powerhouse of the cell.,model.layers.6.mlp.deepspeed_moe.gate.wg,2,0
+The mitochondria is the powerhouse of the cell.,model.layers.6.mlp.deepspeed_moe.gate.wg,3,0
+The mitochondria is the powerhouse of the cell.,model.layers.6.mlp.deepspeed_moe.gate.wg,4,0
+The mitochondria is the powerhouse of the cell.,model.layers.6.mlp.deepspeed_moe.gate.wg,5,0
+The mitochondria is the powerhouse of the cell.,model.layers.6.mlp.deepspeed_moe.gate.wg,6,0
+The mitochondria is the powerhouse of the cell.,model.layers.6.mlp.deepspeed_moe.gate.wg,7,0
+The mitochondria is the powerhouse of the cell.,model.layers.6.mlp.deepspeed_moe.gate.wg,8,0
+The mitochondria is the powerhouse of the cell.,model.layers.6.mlp.deepspeed_moe.gate.wg,9,0
+The mitochondria is the powerhouse of the cell.,model.layers.8.mlp.deepspeed_moe.gate.wg,0,0
+The mitochondria is the powerhouse of the cell.,model.layers.8.mlp.deepspeed_moe.gate.wg,1,0
+The mitochondria is the powerhouse of the cell.,model.layers.8.mlp.deepspeed_moe.gate.wg,2,0
+The mitochondria is the powerhouse of the cell.,model.layers.8.mlp.deepspeed_moe.gate.wg,3,0
+The mitochondria is the powerhouse of the cell.,model.layers.8.mlp.deepspeed_moe.gate.wg,4,0
+The mitochondria is the powerhouse of the cell.,model.layers.8.mlp.deepspeed_moe.gate.wg,5,0
+The mitochondria is the powerhouse of the cell.,model.layers.8.mlp.deepspeed_moe.gate.wg,6,0
+The mitochondria is the powerhouse of the cell.,model.layers.8.mlp.deepspeed_moe.gate.wg,7,0
+The mitochondria is the powerhouse of the cell.,model.layers.8.mlp.deepspeed_moe.gate.wg,8,0
+The mitochondria is the powerhouse of the cell.,model.layers.8.mlp.deepspeed_moe.gate.wg,9,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.0.mlp.deepspeed_moe.gate.wg,0,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.0.mlp.deepspeed_moe.gate.wg,1,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.0.mlp.deepspeed_moe.gate.wg,2,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.0.mlp.deepspeed_moe.gate.wg,3,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.0.mlp.deepspeed_moe.gate.wg,4,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.0.mlp.deepspeed_moe.gate.wg,5,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.0.mlp.deepspeed_moe.gate.wg,6,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.0.mlp.deepspeed_moe.gate.wg,7,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.0.mlp.deepspeed_moe.gate.wg,8,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.0.mlp.deepspeed_moe.gate.wg,9,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.0.mlp.deepspeed_moe.gate.wg,10,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.0.mlp.deepspeed_moe.gate.wg,11,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.0.mlp.deepspeed_moe.gate.wg,12,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.0.mlp.deepspeed_moe.gate.wg,13,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.0.mlp.deepspeed_moe.gate.wg,14,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.0.mlp.deepspeed_moe.gate.wg,15,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.0.mlp.deepspeed_moe.gate.wg,16,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.10.mlp.deepspeed_moe.gate.wg,0,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.10.mlp.deepspeed_moe.gate.wg,1,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.10.mlp.deepspeed_moe.gate.wg,2,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.10.mlp.deepspeed_moe.gate.wg,3,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.10.mlp.deepspeed_moe.gate.wg,4,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.10.mlp.deepspeed_moe.gate.wg,5,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.10.mlp.deepspeed_moe.gate.wg,6,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.10.mlp.deepspeed_moe.gate.wg,7,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.10.mlp.deepspeed_moe.gate.wg,8,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.10.mlp.deepspeed_moe.gate.wg,9,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.10.mlp.deepspeed_moe.gate.wg,10,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.10.mlp.deepspeed_moe.gate.wg,11,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.10.mlp.deepspeed_moe.gate.wg,12,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.10.mlp.deepspeed_moe.gate.wg,13,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.10.mlp.deepspeed_moe.gate.wg,14,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.10.mlp.deepspeed_moe.gate.wg,15,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.10.mlp.deepspeed_moe.gate.wg,16,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.12.mlp.deepspeed_moe.gate.wg,0,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.12.mlp.deepspeed_moe.gate.wg,1,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.12.mlp.deepspeed_moe.gate.wg,2,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.12.mlp.deepspeed_moe.gate.wg,3,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.12.mlp.deepspeed_moe.gate.wg,4,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.12.mlp.deepspeed_moe.gate.wg,5,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.12.mlp.deepspeed_moe.gate.wg,6,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.12.mlp.deepspeed_moe.gate.wg,7,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.12.mlp.deepspeed_moe.gate.wg,8,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.12.mlp.deepspeed_moe.gate.wg,9,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.12.mlp.deepspeed_moe.gate.wg,10,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.12.mlp.deepspeed_moe.gate.wg,11,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.12.mlp.deepspeed_moe.gate.wg,12,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.12.mlp.deepspeed_moe.gate.wg,13,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.12.mlp.deepspeed_moe.gate.wg,14,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.12.mlp.deepspeed_moe.gate.wg,15,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.12.mlp.deepspeed_moe.gate.wg,16,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.14.mlp.deepspeed_moe.gate.wg,0,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.14.mlp.deepspeed_moe.gate.wg,1,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.14.mlp.deepspeed_moe.gate.wg,2,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.14.mlp.deepspeed_moe.gate.wg,3,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.14.mlp.deepspeed_moe.gate.wg,4,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.14.mlp.deepspeed_moe.gate.wg,5,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.14.mlp.deepspeed_moe.gate.wg,6,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.14.mlp.deepspeed_moe.gate.wg,7,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.14.mlp.deepspeed_moe.gate.wg,8,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.14.mlp.deepspeed_moe.gate.wg,9,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.14.mlp.deepspeed_moe.gate.wg,10,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.14.mlp.deepspeed_moe.gate.wg,11,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.14.mlp.deepspeed_moe.gate.wg,12,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.14.mlp.deepspeed_moe.gate.wg,13,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.14.mlp.deepspeed_moe.gate.wg,14,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.14.mlp.deepspeed_moe.gate.wg,15,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.14.mlp.deepspeed_moe.gate.wg,16,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.16.mlp.deepspeed_moe.gate.wg,0,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.16.mlp.deepspeed_moe.gate.wg,1,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.16.mlp.deepspeed_moe.gate.wg,2,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.16.mlp.deepspeed_moe.gate.wg,3,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.16.mlp.deepspeed_moe.gate.wg,4,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.16.mlp.deepspeed_moe.gate.wg,5,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.16.mlp.deepspeed_moe.gate.wg,6,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.16.mlp.deepspeed_moe.gate.wg,7,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.16.mlp.deepspeed_moe.gate.wg,8,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.16.mlp.deepspeed_moe.gate.wg,9,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.16.mlp.deepspeed_moe.gate.wg,10,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.16.mlp.deepspeed_moe.gate.wg,11,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.16.mlp.deepspeed_moe.gate.wg,12,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.16.mlp.deepspeed_moe.gate.wg,13,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.16.mlp.deepspeed_moe.gate.wg,14,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.16.mlp.deepspeed_moe.gate.wg,15,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.16.mlp.deepspeed_moe.gate.wg,16,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.18.mlp.deepspeed_moe.gate.wg,0,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.18.mlp.deepspeed_moe.gate.wg,1,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.18.mlp.deepspeed_moe.gate.wg,2,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.18.mlp.deepspeed_moe.gate.wg,3,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.18.mlp.deepspeed_moe.gate.wg,4,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.18.mlp.deepspeed_moe.gate.wg,5,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.18.mlp.deepspeed_moe.gate.wg,6,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.18.mlp.deepspeed_moe.gate.wg,7,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.18.mlp.deepspeed_moe.gate.wg,8,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.18.mlp.deepspeed_moe.gate.wg,9,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.18.mlp.deepspeed_moe.gate.wg,10,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.18.mlp.deepspeed_moe.gate.wg,11,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.18.mlp.deepspeed_moe.gate.wg,12,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.18.mlp.deepspeed_moe.gate.wg,13,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.18.mlp.deepspeed_moe.gate.wg,14,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.18.mlp.deepspeed_moe.gate.wg,15,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.18.mlp.deepspeed_moe.gate.wg,16,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.2.mlp.deepspeed_moe.gate.wg,0,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.2.mlp.deepspeed_moe.gate.wg,1,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.2.mlp.deepspeed_moe.gate.wg,2,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.2.mlp.deepspeed_moe.gate.wg,3,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.2.mlp.deepspeed_moe.gate.wg,4,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.2.mlp.deepspeed_moe.gate.wg,5,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.2.mlp.deepspeed_moe.gate.wg,6,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.2.mlp.deepspeed_moe.gate.wg,7,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.2.mlp.deepspeed_moe.gate.wg,8,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.2.mlp.deepspeed_moe.gate.wg,9,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.2.mlp.deepspeed_moe.gate.wg,10,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.2.mlp.deepspeed_moe.gate.wg,11,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.2.mlp.deepspeed_moe.gate.wg,12,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.2.mlp.deepspeed_moe.gate.wg,13,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.2.mlp.deepspeed_moe.gate.wg,14,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.2.mlp.deepspeed_moe.gate.wg,15,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.2.mlp.deepspeed_moe.gate.wg,16,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.20.mlp.deepspeed_moe.gate.wg,0,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.20.mlp.deepspeed_moe.gate.wg,1,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.20.mlp.deepspeed_moe.gate.wg,2,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.20.mlp.deepspeed_moe.gate.wg,3,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.20.mlp.deepspeed_moe.gate.wg,4,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.20.mlp.deepspeed_moe.gate.wg,5,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.20.mlp.deepspeed_moe.gate.wg,6,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.20.mlp.deepspeed_moe.gate.wg,7,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.20.mlp.deepspeed_moe.gate.wg,8,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.20.mlp.deepspeed_moe.gate.wg,9,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.20.mlp.deepspeed_moe.gate.wg,10,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.20.mlp.deepspeed_moe.gate.wg,11,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.20.mlp.deepspeed_moe.gate.wg,12,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.20.mlp.deepspeed_moe.gate.wg,13,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.20.mlp.deepspeed_moe.gate.wg,14,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.20.mlp.deepspeed_moe.gate.wg,15,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.20.mlp.deepspeed_moe.gate.wg,16,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.22.mlp.deepspeed_moe.gate.wg,0,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.22.mlp.deepspeed_moe.gate.wg,1,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.22.mlp.deepspeed_moe.gate.wg,2,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.22.mlp.deepspeed_moe.gate.wg,3,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.22.mlp.deepspeed_moe.gate.wg,4,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.22.mlp.deepspeed_moe.gate.wg,5,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.22.mlp.deepspeed_moe.gate.wg,6,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.22.mlp.deepspeed_moe.gate.wg,7,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.22.mlp.deepspeed_moe.gate.wg,8,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.22.mlp.deepspeed_moe.gate.wg,9,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.22.mlp.deepspeed_moe.gate.wg,10,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.22.mlp.deepspeed_moe.gate.wg,11,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.22.mlp.deepspeed_moe.gate.wg,12,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.22.mlp.deepspeed_moe.gate.wg,13,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.22.mlp.deepspeed_moe.gate.wg,14,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.22.mlp.deepspeed_moe.gate.wg,15,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.22.mlp.deepspeed_moe.gate.wg,16,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.4.mlp.deepspeed_moe.gate.wg,0,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.4.mlp.deepspeed_moe.gate.wg,1,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.4.mlp.deepspeed_moe.gate.wg,2,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.4.mlp.deepspeed_moe.gate.wg,3,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.4.mlp.deepspeed_moe.gate.wg,4,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.4.mlp.deepspeed_moe.gate.wg,5,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.4.mlp.deepspeed_moe.gate.wg,6,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.4.mlp.deepspeed_moe.gate.wg,7,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.4.mlp.deepspeed_moe.gate.wg,8,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.4.mlp.deepspeed_moe.gate.wg,9,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.4.mlp.deepspeed_moe.gate.wg,10,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.4.mlp.deepspeed_moe.gate.wg,11,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.4.mlp.deepspeed_moe.gate.wg,12,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.4.mlp.deepspeed_moe.gate.wg,13,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.4.mlp.deepspeed_moe.gate.wg,14,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.4.mlp.deepspeed_moe.gate.wg,15,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.4.mlp.deepspeed_moe.gate.wg,16,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.6.mlp.deepspeed_moe.gate.wg,0,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.6.mlp.deepspeed_moe.gate.wg,1,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.6.mlp.deepspeed_moe.gate.wg,2,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.6.mlp.deepspeed_moe.gate.wg,3,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.6.mlp.deepspeed_moe.gate.wg,4,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.6.mlp.deepspeed_moe.gate.wg,5,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.6.mlp.deepspeed_moe.gate.wg,6,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.6.mlp.deepspeed_moe.gate.wg,7,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.6.mlp.deepspeed_moe.gate.wg,8,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.6.mlp.deepspeed_moe.gate.wg,9,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.6.mlp.deepspeed_moe.gate.wg,10,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.6.mlp.deepspeed_moe.gate.wg,11,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.6.mlp.deepspeed_moe.gate.wg,12,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.6.mlp.deepspeed_moe.gate.wg,13,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.6.mlp.deepspeed_moe.gate.wg,14,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.6.mlp.deepspeed_moe.gate.wg,15,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.6.mlp.deepspeed_moe.gate.wg,16,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.8.mlp.deepspeed_moe.gate.wg,0,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.8.mlp.deepspeed_moe.gate.wg,1,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.8.mlp.deepspeed_moe.gate.wg,2,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.8.mlp.deepspeed_moe.gate.wg,3,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.8.mlp.deepspeed_moe.gate.wg,4,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.8.mlp.deepspeed_moe.gate.wg,5,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.8.mlp.deepspeed_moe.gate.wg,6,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.8.mlp.deepspeed_moe.gate.wg,7,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.8.mlp.deepspeed_moe.gate.wg,8,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.8.mlp.deepspeed_moe.gate.wg,9,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.8.mlp.deepspeed_moe.gate.wg,10,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.8.mlp.deepspeed_moe.gate.wg,11,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.8.mlp.deepspeed_moe.gate.wg,12,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.8.mlp.deepspeed_moe.gate.wg,13,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.8.mlp.deepspeed_moe.gate.wg,14,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.8.mlp.deepspeed_moe.gate.wg,15,0
+"Once upon a time, in a land far far away, there lived a dragon.",model.layers.8.mlp.deepspeed_moe.gate.wg,16,0
